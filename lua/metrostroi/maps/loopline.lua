@@ -529,49 +529,49 @@ Metrostroi.StationSound = {
 
 Metrostroi.StationConfigurations = {
     [651]  = {
-        names = {"первоапрельская","First april"},
+        names = {"Первоапрельская","First april"},
         positions = {
             {Vector(-1655,-390,-497),Angle(0,0,0)},
         },
     },
     [652]  = {
-        names = {"парк","Park"},
+        names = {"Парк","Park"},
         positions = {
             {Vector(2675,10622,-1004),Angle(0,0,0)},
         },
     },
     [653]  = {
-        names = {"метростроителей","Metrostroiteley","Metrobuilder station"},
+        names = {"Метростроителей","Metrostroiteley","Metrobuilder station"},
         positions = {
             {Vector(3544,-8880,-2034),Angle(0,0,0)},
         },
     },
     [654]  = {
-        names = {"морская","Marine"},
+        names = {"Морская","Marine"},
         positions = {
             {Vector(14950, 4282, -5105),Angle(0,0,0)},
         },
     },
     [655]  = {
-        names = {"славная страна","Glorious country"},
+        names = {"Славная страна","Glorious country"},
         positions = {
             {Vector(-10223,3444,-3057.97),Angle(0,0,0)},
         },
     },
     [656]  = {
-        names = {"пионерская","Pionerskaya","Pioneer station"},
+        names = {"Пионерская","Pionerskaya","Pioneer station"},
         positions = {
             {Vector(-15200,7954,-1010),Angle(0,0,0)},
         },
     },
     depot = {
-        names = {"Депо","депо"},
+        names = {"Депо","depo"},
         positions = {
             {Vector(-9315,-8450,918),Angle(0,0,0)},
         }
     },
     pto = {
-        pto = {"пто","ПТО"},
+        names = {"ПТО","PTO"},
         positions = {
             {Vector(-4539,5624,-4597),Angle(0,0,0)},
         }
